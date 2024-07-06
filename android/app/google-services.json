@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "8364199906",
+    "firebase_url": "https://doantotnghiep-e31d2-default-rtdb.firebaseio.com",
+    "project_id": "doantotnghiep-e31d2",
+    "storage_bucket": "doantotnghiep-e31d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8364199906:android:7346994ef1b63f62eff3bb",
+        "android_client_info": {
+          "package_name": "com.example.do_an_tot_nghiep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8UI7jofApcfxALaAwaJG-rWuig9ELw6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
